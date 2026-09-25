@@ -1,0 +1,1 @@
+import{n as e,v as t}from"./index-B2k9vyUn.js";var n=t();function r({className:t,...r}){return(0,n.jsx)(`label`,{className:e(`block text-sm font-medium text-ink`,t),...r})}export{r as t};

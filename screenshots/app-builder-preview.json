@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Convene",
+      "hasCanvas": false,
+      "bodyTextLen": 895,
+      "bodyTextHash": "a222e16e1594dae8c59cc4c0e56b9a6aa7d23a3af35fcea9a44d975a3dd50748",
+      "bodyTextPrefix": "Convene Maplewood Elementary · Oct 22 Night Teachers Families Sc",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Convene",
+      "hasCanvas": false,
+      "bodyTextLen": 865,
+      "bodyTextHash": "4db3081389973634a4303a2355d4551bd3bf5b36461124be7f390760637f6e98",
+      "bodyTextPrefix": "Convene Night Teachers Families Schedule CONFERENCE NIGHT Fall C",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
